@@ -15,7 +15,7 @@ To create a WordPress plugin that displays your Upwork account information, you 
 - To display the information on your WordPress site, you can create a shortcode for your plugin. This will allow you to add the information to any post or page by using a simple shortcode, like `[upwork_info]`.
 
 
-## Finally, you can add a settings page to your plugin to allow the user to enter their Upwork API key. This can be done using the WordPress Settings API.
+### Finally, you can add a settings page to your plugin to allow the user to enter their Upwork API key. This can be done using the WordPress Settings API.
 
 - Create a new PHP file in your plugin folder to contain the settings page. This file will be responsible for rendering the form and saving the user's input.
 
